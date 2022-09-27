@@ -201,7 +201,7 @@ Please click on this [link](./v4.tests.zip) to download our functional testing t
 
 ### Performance Testing
 
-Please click on this [link](https://preview.developer.concur.com/api-reference/direct-connects/hotel-service-4/v4.perf-tests.zip) to download our non-functional testing tool archive.
+Please click on this [link](./v4.perf-tests.zip) to download our non-functional testing tool package.
    * Tool for performance testing includes taurus and jmeter test scripts. 
    * The goal of running these tests is to validate against our [Non Functional Requirements](#non-functional-requirements).
    * For more detailed instructions to run these tests please refer to the README inside the testing tool zip.
