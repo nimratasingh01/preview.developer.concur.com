@@ -196,7 +196,7 @@ In order to enable faster certification, SAP Concur provides the following testi
 Please click on this [link](./v4.tests.zip) to download our functional testing tool package.
 
    * Tool for functional testing includes [Postman](https://www.postman.com/downloads/) collection that validates responses for all API endpoints against OpenAPI [schema](https://developer.concur.com/api-explorer/v4-0/HotelService.html#/). 
-   * Tool also validates basic features of the API, for e.g. search response has properties in specified radius, all properties in details response have hotel images, checkin and checkout dates are valid, all hotel rates have meal amenity codes, cancel penalties have valid cancel deadlines, etc.
+   * Tool also validates basic features of the API, for e.g. search response has properties in specified radius, all properties in details response have hotel images, checkin and checkout dates are valid, all hotel rates have appropriate amenity codes, cancel penalties have valid cancel deadlines, etc.
    * For more detailed instructions to run these tests please refer to the README inside the testing tool zip.
 
 ### Performance Testing
